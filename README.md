@@ -669,6 +669,3 @@ Puesto que el conmutador proporcionar una conexión eléctrica entre las escobil
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
-RUBRICA
-
-![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
